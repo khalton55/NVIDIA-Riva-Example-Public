@@ -13,3 +13,5 @@ RIVA 2.16.0 +
 
 Based on RIVA Quickstart guide
 Requires NGC account as well
+
+Will expand read-me
